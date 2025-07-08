@@ -1,6 +1,6 @@
 # Machine Learning Projects
 
-This repository contains a collection of machine learning projects implemented using Python and Jupyter notebooks. Each project demonstrates key concepts such as data preprocessing, model training, evaluation, and visualization.
+This repository contains a collection of machine learning projects I've implemented using Python in Jupyter notebooks. Each project demonstrates key concepts such as data preprocessing, model training, evaluation, and visualization.
 
 ---
 
